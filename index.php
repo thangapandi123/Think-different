@@ -1,0 +1,2 @@
+<?phpecho "hai";
+?>
